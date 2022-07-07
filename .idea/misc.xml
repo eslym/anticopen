@@ -8,12 +8,16 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/go.mod" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="333" />
+          <option name="caretOffset" value="123" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
         </OpenedFileInfo>
         <OpenedFileInfo>
           <option name="caretOffset" value="1174" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/main.go" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/LICENSE" />
         </OpenedFileInfo>
       </list>
     </option>
