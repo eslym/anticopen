@@ -4,7 +4,7 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="25" />
+          <option name="caretOffset" value="103" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/go.mod" />
         </OpenedFileInfo>
         <OpenedFileInfo>
@@ -16,8 +16,8 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/main.go" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/LICENSE" />
+          <option name="caretOffset" value="300" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/go.sum" />
         </OpenedFileInfo>
       </list>
     </option>
